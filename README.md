@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sangura-JJ
-- 👀 I’m interested in ...Data Science,Machine Learning and Fullstack Web development
-- 🌱 I’m currently learning ...Fullstack web development
-- 💞️ I’m looking to collaborate on ...Data science and Machine learning
+- 👀 I’m interested in ...Data Science,Machine Learning and Software engineering
+- 🌱 I’m currently learning ...Fullstack software engineering at ALX Cohort 17
+- 💞️ I’m looking to collaborate on ...Data science and Machine learning and Software engineering
 - 📫 How to reach me ...sanguraj12@gmail.com
 
 <!---
